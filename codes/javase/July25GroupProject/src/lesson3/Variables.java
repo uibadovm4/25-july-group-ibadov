@@ -7,6 +7,6 @@ public class Variables {
 		char c = 'A';
 		boolean d = true;
 		
-		System.out.println(a + " " + b + " " + c + " " + d);
+		System.out.println("int:" + a + " double:" + b + " char:" + c + " boolean:" + d);
 	}
 }
