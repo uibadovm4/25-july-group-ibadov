@@ -1,0 +1,35 @@
+Tapşırıq 1
+String password1 = "Java123";
+String password2 = "java123";
+String password3 = "JAVA123";
+1.password1 və password2 dəyişənlərini equals() ilə müqayisə et.
+2.Eyni dəyişənləri equalsIgnoreCase() ilə müqayisə et.
+3.password1 və password3 üçün hər iki metodu yoxla.
+
+
+Tapşırıq 2
+String text = "Azerbaijan"; verilib.
+
+Proqram yazaraq aşağıdakıları konsola çıxart:
+- Sətirin uzunluğu
+- İlk simvolu
+- Son simvolu
+- a simvolunun ilk indeksini
+- Sətirin AZERBAIJAN ilə böyük-kiçik hərf fərqini nəzərə almadan bərabər olub-olmadığını
+
+Tapşırıq 3
+Student class-ı yarat. Bu field-ləri əlavə et:
+String name;
+String surname;
+int age;
+String group;
+
+Üç tələbə obyekti yarat. Hər tələbənin məlumatlarını doldur və məlumatları bu formatda çap et:
+
+Ad: Murad
+Soyad: Əliyev
+Yaş: 19
+Qrup: Java01
+
+
+Github - https://github.com/MemmedzadeAygun/25JulyGroup
